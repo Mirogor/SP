@@ -1,0 +1,5 @@
+﻿  spreadsheet.cpp
+C:\Users\Miron\Downloads\Telegram Desktop\ОСИСП\Laba2\Spreadsheet\Spreadsheet\spreadsheet.cpp(73,20): warning C4267: return: преобразование из "size_t" в "INT"; возможна потеря данных
+C:\Users\Miron\Downloads\Telegram Desktop\ОСИСП\Laba2\Spreadsheet\Spreadsheet\spreadsheet.cpp(83,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Miron\Downloads\Telegram Desktop\ОСИСП\Laba2\Spreadsheet\Spreadsheet\spreadsheet.cpp(147,58): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Spreadsheet.vcxproj -> C:\Users\Miron\Downloads\Telegram Desktop\ОСИСП\Laba2\Spreadsheet\x64\Debug\Spreadsheet.exe

@@ -1,0 +1,6 @@
+﻿  dllmain.cpp
+  lib.cpp
+C:\Users\Miron\Downloads\Telegram Desktop\ОСИСП\Laba3\DLL\DLL\lib.cpp(42,29): warning C4101: e: неиспользованная локальная переменная
+  Создание кода...
+     Создается библиотека C:\Users\Miron\Downloads\Telegram Desktop\ОСИСП\Laba3\DLL\x64\Debug\DLL.lib и объект C:\Users\Miron\Downloads\Telegram Desktop\ОСИСП\Laba3\DLL\x64\Debug\DLL.exp
+  DLL.vcxproj -> C:\Users\Miron\Downloads\Telegram Desktop\ОСИСП\Laba3\DLL\x64\Debug\DLL.dll

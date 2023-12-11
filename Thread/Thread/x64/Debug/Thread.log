@@ -1,0 +1,11 @@
+﻿  Handler.cpp
+  main.cpp
+C:\Users\Miron\Downloads\Telegram Desktop\ОСИСП\Laba4\Thread\Thread\main.cpp(57,28): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Merger.cpp
+C:\Users\Miron\Downloads\Telegram Desktop\ОСИСП\Laba4\Thread\Thread\Merger.cpp(20,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Miron\Downloads\Telegram Desktop\ОСИСП\Laba4\Thread\Thread\Merger.cpp(21,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Sorter.cpp
+C:\Users\Miron\Downloads\Telegram Desktop\ОСИСП\Laba4\Thread\Thread\Sorter.cpp(8,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  TaskQueue.cpp
+  Создание кода...
+  Thread.vcxproj -> C:\Users\Miron\Downloads\Telegram Desktop\ОСИСП\Laba4\Thread\x64\Debug\Thread.exe
